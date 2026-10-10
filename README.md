@@ -1,93 +1,29 @@
-# 🛡️ Cybersecurity Project Portfolio
+<img src="docs/banner.svg" alt="Project overview" width="100%">
 
-A collection of four security-focused case studies covering network defence, secure development, system hardening, compliance, and data protection.
+# Security Studies
+### Four case studies in defensive security.
 
-## ⚡ Overview
+A collection of written coursework covering network defence, secure development, system hardening, and data protection. The deliverables are the reports below.
 
-This repository showcases practical cybersecurity work across multiple layers of defense — from securing the network perimeter to protecting data at rest and in transit.
+## Read the reports
 
-Each project reflects a different security domain:
+| Report | Focus |
+| --- | --- |
+| [01 · Securing the perimeter](P1_Securing_the_perimeter.pdf) | Network exposure, segmentation, controlled access, VPNs, and monitoring |
+| [02 · Security assessment](P2_Security_Assessment.pdf) | Secure development, application vulnerabilities, containers, and API controls |
+| [03 · Compliance assessment](P3_Compliance_Assessment.pdf) | Endpoint hardening, security policies, and cloud access controls |
+| [04 · Data security analysis](P4_Data_Security_Analysis.pdf) | Classification, access control, integrity, backup, and retention |
 
-- **Network Security & Zero Trust**
-- **Secure SDLC & Vulnerability Remediation**
-- **Compliance & System Hardening**
-- **Data Security & Governance**
+Open a PDF on GitHub to read it, or download it from the file page.
 
-## 🔥 Projects Included
+## What this repository demonstrates
 
-### 1. Securing the Perimeter
-A network security redesign focused on reducing exposure, improving segmentation, and enforcing controlled access.
+The work connects technical observations to written findings and suggested controls. Its value is in the reasoning: what is exposed, what could go wrong, which control addresses it, and what still needs validation.
 
-Highlights:
-- Internet exposure analysis
-- DMZ and subnet redesign
-- Firewall-based isolation
-- VPN-secured file access
-- SIEM-driven monitoring
-- Zero Trust architecture recommendation
+These are educational case studies, not an independent audit certification or evidence that the recommended controls have been deployed in production.
 
-### 2. Security Assessment
-A security assessment covering secure development practices, application vulnerabilities, container security, and API protection.
+## Repository scope
 
-Highlights:
-- Secure SDLC integration
-- Brute-force attack mitigation
-- HTTPS enforcement
-- Session security
-- Container vulnerability review
-- API rate limiting, authentication, and BOLA analysis
+This repository contains four PDF reports. There is no runnable application, hosted dashboard, or APK.
 
-### 3. Compliance Assessment
-A hardening and compliance-focused project covering endpoint security, policy design, and cloud security controls.
-
-Highlights:
-- Windows 10 hardening
-- macOS hardening
-- Linux compliance checks
-- Email and BYOD policies
-- Windows Server build sheet
-- CASB-based cloud security improvements
-
-### 4. Data Security Analysis
-A data protection and governance project focused on classification, confidentiality, integrity, and availability.
-
-Highlights:
-- Data classification
-- Regulatory mapping
-- Encryption and access control policies
-- File integrity verification
-- Security auditing
-- Backup and retention strategy
-
-## 🧠 Skills Demonstrated
-
-- Network Security
-- Zero Trust
-- SIEM Concepts
-- Threat Analysis
-- Secure SDLC
-- Web and API Security
-- Container Security
-- System Hardening
-- Compliance Assessment
-- Data Governance
-- Backup Strategy
-- Security Policy Design
-
-## 🎯 Why This Portfolio Matters
-
-These projects reflect a layered approach to cybersecurity:
-
-- reduce exposure
-- prevent unauthorized access
-- detect suspicious activity early
-- enforce least privilege
-- protect sensitive information
-- support resilience and recovery
-
-Security is not one control — it is a strategy built across people, process, and technology.
-
-## 👨‍💻 Author
-
-**Ayush Kumar Jha**  
-Cybersecurity enthusiast focused on secure systems, defensive architecture, compliance, and data protection.
+**Ayush Kumar Jha** · [Profile](https://github.com/AyushKJha) · [Portfolio](https://ayush-kumar-jha-v2.onrender.com/)
