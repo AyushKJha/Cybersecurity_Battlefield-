@@ -1,3 +1,5 @@
+<img src="docs/banner.svg" alt="Security studies — four defensive case study areas" width="100%">
+
 # Security Studies
 ### Four case studies in defensive security.
 
