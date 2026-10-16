@@ -1,5 +1,3 @@
-<img src="docs/banner.svg" alt="Project overview" width="100%">
-
 # Security Studies
 ### Four case studies in defensive security.
 
